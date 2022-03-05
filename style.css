@@ -1,0 +1,126 @@
+#title {
+  background-color: #FF4C68
+}
+.AB {
+  padding : 3% 15%;
+  font-size: 20px;
+}
+.CD {  font-size: 3rem;
+  line-height:  1.2;
+color: #FFF;
+}
+.nav-item {
+  padding : 0 18px;
+
+}
+.navbar  {
+  padding-bottom: 4.5rem;
+}
+.navbar-brand {
+  font-family: cursive;
+  font-size: 4.5rem;
+  font-weight: bold;
+}
+#navbarTogglerDemo02
+{
+  margin-left: 500px;
+  padding-left: 20px;
+}
+.Download-button
+{
+  margin : 3% 5% 5% 0;
+}
+.image {
+  width: 15%;
+transform: rotate(25deg);
+  position: absolute;
+}
+#features {
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+
+
+}
+.feature-box {
+  text-align:  center;
+  padding: 2%;
+}
+h2 {
+  font-family: cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: cursive bold;
+}
+.NV {
+  padding : 5% 15%;
+}
+p
+{
+  color: grey;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color : #FF4C68;
+}
+#testimonials
+{
+  padding : 7% 20%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.images {
+  width: 20%;
+  border-radius: 100%;
+  margin : 20px;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 2%;
+}
+.logo {
+  width: 15%;
+}
+#pricing {
+  padding: 200px;
+  text-align: center;
+}
+.pricing-cloumn {
+  padding: 3% 2%;
+}
+@media  (max-width:1028px){
+  #title {
+    text-align: center;
+  }
+  .image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+#cta {
+  background-color: #FF4C68;
+  color : #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+.h{
+  font-size: 3.5rem;
+  font-family: cursive;
+  line-height: 1.2;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+}
+.icon-social
+{
+  margin: 2% 3%
+}
